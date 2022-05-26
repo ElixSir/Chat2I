@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat_2022_eleves</string>
+    <string name="appname">Chat2I</string>
+    <string name="login">Login :</string>
+    <string name="passe">Mot de passe :</string>
+    <string name="remember">Se souvenir de moi :</string>
+    <string name="choix_conversation">Choix de la conversation</string>
+
+</resources>
